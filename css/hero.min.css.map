@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"hero.min.css"}
+{"version":3,"sources":["../scss/blocks/hero.scss"],"names":[],"mappings":"AAAA,EACI,SAAA","file":"hero.min.css"}
